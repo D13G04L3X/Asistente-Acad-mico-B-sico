@@ -1,0 +1,20 @@
+ASISTENTE ACADÉMICO BÁSICO
+Fecha: 2026-04-03 01:47:18
+
+TEXTO ORIGINAL:
+Buenos días profesor.
+No pude asistir a clase porque estaba enfermo.
+¿Puedo enviar la actividad mañana?
+Gracias.
+
+RESUMEN:
+El estudiante informa al profesor de su ausencia por enfermedad y solicita permiso para entregar la actividad mañana.
+
+CLASIFICACIÓN:
+solicitud
+
+RESPUESTA FORMAL:
+Estimado estudiante:
+Lamento que su estado de salud le impidiera asistir a clase. Agradezco que me informe.
+Sí, puede enviar la actividad pendiente mañana.
+Saludos cordiales.

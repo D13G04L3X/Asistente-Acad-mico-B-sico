@@ -1,0 +1,24 @@
+ASISTENTE ACADÉMICO BÁSICO
+Fecha: 2026-04-03 01:45:08
+
+TEXTO ORIGINAL:
+Buenas tardes profesor.
+
+No pude asistir a clase porque me encontraba en una cita médica.
+
+Quisiera saber si es posible entregar la actividad mañana.
+
+Gracias.
+
+RESUMEN:
+Un estudiante informa que faltó a clase por una cita médica y pregunta si es posible entregar la actividad mañana.
+
+CLASIFICACIÓN:
+solicitud
+
+RESPUESTA FORMAL:
+Estimado/a estudiante,
+
+Agradezco que me haya informado sobre su situación. Sí, puede entregar la actividad pendiente mañana.
+
+Saludos cordiales.
