@@ -113,3 +113,7 @@ Respuesta formal
 Y guardará automáticamente los resultados en:
 
 4. Análisis crítico/
+
+=================================================================
+Nota: Se puede ejecutar el archivo requirements.txt, con el comando: "pip install -r requirements.txt" para instalar todas las dependencias y librerias de python que utiliza el proyecto.
+=================================================================
