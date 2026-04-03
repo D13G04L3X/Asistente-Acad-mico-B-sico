@@ -48,7 +48,7 @@ https://www.python.org/downloads/
 
 Ubícate en la carpeta del proyecto:
 
-cd "E:\Universidad\ITM\Materias\Ingeniería de Sistemas\3. Herramientas de Inteligencia Artificial\Entregables\Entrega 2\API_Google\Asistente-Académico-Básico"
+cd "C:\...\Asistente-Académico-Básico"
 
 Crear entorno virtual:
 
@@ -89,9 +89,8 @@ $env:GEMINI_API_KEY="TU_CLAVE_AQUI"
 
 ⚠️ Importante:
 
-No subir la API Key a GitHub.
-No escribirla directamente en el código.
-No compartirla públicamente.
+Para ejecutar este proyecto debes generar tu propia API Key en Google AI Studio y configurarla como variable de entorno con el nombre GEMINI_API_KEY.
+
 🔹 PASO 5 – Ejecutar el programa
 
 Desde la raíz del proyecto:
